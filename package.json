@@ -1,0 +1,19 @@
+{
+  "name": "getrandomnumber",
+  "version": "1.0.0",
+  "description": "Aplicación para obtener un número aleatorio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-Martinez-96/getRandomNumber.git"
+  },
+  "author": "Luis Fernando <luis_flm@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F-Martinez-96/getRandomNumber/issues"
+  },
+  "homepage": "https://github.com/F-Martinez-96/getRandomNumber#readme"
+}
